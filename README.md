@@ -1,2 +1,3 @@
 # recheck_submodule
-Copy of r-devel/revdepcheck with submodule checkout
+
+This is a direct copy of [r-devel/recheck](https://github.com/r-devel/recheck) except for allowing submodule update in checkout. 
